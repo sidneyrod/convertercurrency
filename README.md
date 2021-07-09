@@ -1,3 +1,5 @@
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/sidneyrod/currencyconverter/blob/main/LICENSE)
+
 ## If you want to convert currencies of types:
 
 - USD to BRL;
