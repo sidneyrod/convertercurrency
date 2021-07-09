@@ -9,7 +9,7 @@
 - EUR to BRL;
 - BRL to EUR;
 
-You just need to access the link below to access the page:
+You just need to click the link below to access the page:
 
 <p className="text-light"><a href="https://sidconvertercurrency.netlify.app/" 
 target="_blank" rel="noreferrer">CONVERTER CURRENCY</a></p>
