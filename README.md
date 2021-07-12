@@ -18,7 +18,7 @@ target="_blank" rel="noreferrer">CONVERTER CURRENCY</a></p>
 
 - React
 - JavaScript
-- HTML
+- HTML/Bootstrap
 - CSS
 - Netlify
 
